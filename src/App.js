@@ -1,4 +1,7 @@
 import { useState } from "react";
+//balance âm : mình nợ bạn (red)
+//balance dương: bạn nợ mình (green)
+// ===0 : không nợ nhau
 
 const initialFriends = [
   {
